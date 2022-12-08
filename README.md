@@ -65,9 +65,13 @@ After you're finished please remove all the comments and instructions!
 
 ## 🛠 Built With <a name="built-with"></a>
 
+- Major languages: html, javascript, CSS
+- Frameworks: No framework is used.
+- Technologies used: Git, Github, Git flow, VS code editor, Webpack.
+
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+
 
 <details>
   <summary>Client</summary>
@@ -92,15 +96,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
@@ -115,15 +111,17 @@ After you're finished please remove all the comments and instructions!
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
+## Getting Started
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+1. In the console run npm install.
+2. Then run npm start.
 
 ### Prerequisites
 
 In order to run this project you need:
-
+ 
+ The basic understanding of HTML,CSS, JS
+ 
 <!--
 Example command:
 
@@ -132,18 +130,7 @@ Example command:
 ```
  -->
 
-### Setup
 
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
@@ -203,7 +190,7 @@ Example:
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
-
+Ismail
 - GitHub: [@IsmailChangezi](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
