@@ -16,11 +16,6 @@
 1. In the console run npm install.
 2. Then run npm start.
 
-## Authors
-
-👤 Juan Zorrilla
-
-- GitHub: [@githubhandle](https://github.com/Swarzstein/)
 
 
 
