@@ -16,6 +16,7 @@
 1. In the console run npm install.
 2. Then run npm start.
 
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
