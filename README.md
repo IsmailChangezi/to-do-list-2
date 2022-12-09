@@ -48,7 +48,6 @@ After you're finished please remove all the comments and instructions!
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -96,13 +95,10 @@ In order to run this project you need:
 
 👤 **Author1**
 Ismail
-- GitHub: [@IsmailChangezi](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@IsmailChangezi](https://github.com/IsmailChangezi)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ismail-changezi-34a138215/)
 
-<!-- FUTURE FEATURES -->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
