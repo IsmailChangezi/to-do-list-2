@@ -119,7 +119,8 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project please let me know
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,14 +130,14 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank my coding partners for their helps
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-
+You can ask your questions here.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
